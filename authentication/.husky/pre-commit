@@ -1,0 +1,8 @@
+ #!/bin/sh
+    . "$(dirname "$0")/_/husky.sh"
+
+    pnpm precommit
+#!/bin/sh
+    . "$(dirname "$0")/_/husky.sh"
+
+    pnpm prepush
