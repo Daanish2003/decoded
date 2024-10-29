@@ -1,0 +1,7 @@
+node_modules
+build
+./apps/backend/.env
+./apps/frontend/.env
+./apps/webrtc/.env
+./apps/ws/.env
+./packages/db/.env
