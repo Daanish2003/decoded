@@ -2,7 +2,7 @@ export * from "./shad/ui/badge";
 export * from "./shad/ui/button";
 export * from "./shad/ui/card";
 export * from "./shad/ui/checkbox";
-export * from "./shad/ui/dialog"
+export * from "./shad/ui/dialog";
 export * from "./shad/ui/dropdown-menu";
 export * from "./shad/ui/input";
 export * from "./shad/ui/label";
